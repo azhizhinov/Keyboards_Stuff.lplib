@@ -1,0 +1,10 @@
+(librepcb_library 7adbfb56-5289-4029-82f1-2d074e60018e
+ (name "Keyboard\'s Stuff")
+ (description "Various components for mechanical keyboards.")
+ (keywords "")
+ (author "azhizhinov")
+ (version "0.1")
+ (created 2022-03-31T17:11:29Z)
+ (deprecated false)
+ (url "")
+)
