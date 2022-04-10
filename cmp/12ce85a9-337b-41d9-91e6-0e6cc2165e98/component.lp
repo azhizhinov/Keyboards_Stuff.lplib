@@ -1,7 +1,7 @@
 (librepcb_component 12ce85a9-337b-41d9-91e6-0e6cc2165e98
- (name "ProMicro")
- (description "")
- (keywords "")
+ (name "Arduino Pro Micro")
+ (description "A cheap Arduino board based on the ATmega32U4 with a built-in USB which makes the Micro recognizable as a mouse or keyboard.")
+ (keywords "arduino,micro,atmega32u4")
  (author "azhizhinov")
  (version "0.1")
  (created 2022-03-31T20:07:33Z)
