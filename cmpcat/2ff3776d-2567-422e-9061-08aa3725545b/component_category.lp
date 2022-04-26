@@ -1,0 +1,10 @@
+(librepcb_component_category 2ff3776d-2567-422e-9061-08aa3725545b
+ (name "Audio Connectors")
+ (description "")
+ (keywords "")
+ (author "azhizhinov")
+ (version "0.1")
+ (created 2022-04-17T09:17:04Z)
+ (deprecated false)
+ (parent d0618c29-0436-42da-a388-fdadf7b23892)
+)
