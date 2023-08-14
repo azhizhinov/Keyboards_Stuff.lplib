@@ -1,6 +1,6 @@
 (librepcb_device 1e81c458-dfcc-4d5d-bafb-0cab1aa5e993
  (name "Arduino Elite-C")
- (description "A cheap Arduino board based on the ATmega32U4 with a built-in USB which makes the Micro recognizable as a mouse or keyboard.")
+ (description "A cheap Arduino board based on the ATmega32U4 with a built-in USB which makes the Micro recognizable as a mouse or keyboard.\nUSB-C socket.\n33.02x17,78mm PCB.")
  (keywords "arduino,micro,atmega32u4")
  (author "azhizhinov")
  (version "0.1")

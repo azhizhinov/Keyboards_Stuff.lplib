@@ -1,0 +1,10 @@
+(librepcb_package_category 597ab68a-b22f-42e8-8e1f-a18a5cc1a84e
+ (name "Arduino")
+ (description "A cheap Arduino board based on the ATmega32U4 with a built-in USB which makes the Micro recognizable as a mouse or keyboard.")
+ (keywords "arduino, promicro, atmega, avr")
+ (author "azhizhinov")
+ (version "0.1")
+ (created 2023-08-13T08:53:29Z)
+ (deprecated false)
+ (parent 194951ec-03dd-412a-9828-70c40bbdd22d)
+)

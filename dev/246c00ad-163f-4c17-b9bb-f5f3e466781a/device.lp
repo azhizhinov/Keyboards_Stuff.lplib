@@ -1,7 +1,7 @@
 (librepcb_device 246c00ad-163f-4c17-b9bb-f5f3e466781a
- (name "Socket RJ45 Horizontal")
- (description "")
- (keywords "RJ45")
+ (name "RJ45 Socket Horizontal")
+ (description "RJ45 Socket Horizontal")
+ (keywords "RJ connector, 8P8C (8 positions 8 connected), RJ31/RJ32/RJ33/RJ34/RJ35/RJ41/RJ45/RJ49/RJ61")
  (author "azhizhinov")
  (version "0.1")
  (created 2022-04-02T17:42:24Z)

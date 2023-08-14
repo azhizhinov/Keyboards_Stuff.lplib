@@ -1,0 +1,10 @@
+(librepcb_package_category 70adf103-ef4a-4aef-9d45-72c50d409d60
+ (name "Audio Connectors")
+ (description "Various Audio Connectors.")
+ (keywords "audio, jack, receptacle, stereo, headphones, TRRS, connector")
+ (author "azhizhinov")
+ (version "0.1")
+ (created 2023-08-13T16:56:56Z)
+ (deprecated false)
+ (parent 56a5773f-eeb4-4b39-8cb9-274f3da26f4f)
+)

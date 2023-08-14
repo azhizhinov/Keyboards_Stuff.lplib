@@ -1,0 +1,13 @@
+(librepcb_device ad54d19b-def1-40c3-8115-6e35dfe1ea72
+ (name "Mounting Hole 2.2mm, M2, Pad")
+ (description "Mounting Hole with connection.\nMounting Hole 2.2mm, M2, Pad.")
+ (keywords "mounting, hole")
+ (author "azhizhinov")
+ (version "0.1")
+ (created 2023-08-13T18:16:38Z)
+ (deprecated false)
+ (category 86b6c170-7f05-45b1-a3b2-4d834ea503fa)
+ (component 94f7af72-ed57-41d0-b380-693d78527b42)
+ (package 1e6e5a29-87fb-4b0b-bcd6-8ca99ac167ac)
+ (pad 3a6825f4-f63e-45f9-9899-63ee73d84c79 (signal 24c968e3-24c2-47d5-88a8-4fd4bb5f1cd1))
+)

@@ -1,0 +1,10 @@
+(librepcb_component_category 86b6c170-7f05-45b1-a3b2-4d834ea503fa
+ (name "Mechanical")
+ (description "")
+ (keywords "")
+ (author "azhizhinov")
+ (version "0.1")
+ (created 2023-08-13T17:40:31Z)
+ (deprecated false)
+ (parent none)
+)
