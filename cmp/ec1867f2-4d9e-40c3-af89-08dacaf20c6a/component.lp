@@ -41,7 +41,7 @@
   (required false) (negated false) (clock false) (forced_net "")
  )
  (signal 24bea124-fcd1-4e97-8c97-f715e2f35ab5 (name "GND") (role passive)
-  (required false) (negated false) (clock false) (forced_net "")
+  (required true) (negated false) (clock false) (forced_net "")
  )
  (signal 0e1c7f8c-2194-46e0-862e-247d85d03052 (name "6/PD7") (role passive)
   (required false) (negated false) (clock false) (forced_net "")

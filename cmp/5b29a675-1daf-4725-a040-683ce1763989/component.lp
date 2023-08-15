@@ -1,7 +1,7 @@
 (librepcb_component 5b29a675-1daf-4725-a040-683ce1763989
- (name "RJ45 Socket Horizontal")
+ (name "8P8C Connector")
  (description "")
- (keywords "RJ45")
+ (keywords "RJ connector, 8P8C (8 positions 8 connected), RJ31/RJ32/RJ33/RJ34/RJ35/RJ41/RJ45/RJ49/RJ61")
  (author "azhizhinov")
  (version "0.1")
  (created 2022-04-02T16:12:04Z)

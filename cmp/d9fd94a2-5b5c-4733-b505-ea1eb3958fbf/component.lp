@@ -47,7 +47,7 @@
   (required false) (negated false) (clock false) (forced_net "")
  )
  (signal af89222d-81cb-437f-a640-396c2d6c9a4f (name "GND") (role passive)
-  (required false) (negated false) (clock false) (forced_net "")
+  (required true) (negated false) (clock false) (forced_net "")
  )
  (signal f741b12e-0334-482b-ae88-06f00ef6dab6 (name "RX1/PD2") (role passive)
   (required false) (negated false) (clock false) (forced_net "")
