@@ -1,0 +1,10 @@
+(librepcb_package_category 12465f2e-1ed4-4c9a-ae1b-d1e374ba8e01
+ (name "Jumpers")
+ (description "")
+ (keywords "jumper, pin, solder")
+ (author "azhizhinov")
+ (version "0.1")
+ (created 2023-08-16T18:13:45Z)
+ (deprecated false)
+ (parent none)
+)
